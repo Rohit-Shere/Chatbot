@@ -25,7 +25,7 @@ Python 3.9+, LangGraph, LangChain, `langchain_google_genai`, Streamlit, python-d
 
 ## Quick Start
 ```bash
-git clone https://github.com/your-username/chatbot-project.git
+git clone https://github.com/Rohit-Shere/Chatbot.git
 cd chatbot-project
 
 python -m venv venv
